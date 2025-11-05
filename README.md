@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm Marshtomp21 aka Allen Chen.
+I'm Chen Jiyang aka Allen Chen.
 
-- 🔭 Study in Tianjin University
-- 🌱 Major: Artificial Intelligence
+- Undergraduate, School of Artificial Intelligence, Tianjin University
+- Research Intern, Networked Systems Lab, Tianjin University
+- Research Intern, Institute of Automation, Chinese Academy of Sciences (CASIA)
