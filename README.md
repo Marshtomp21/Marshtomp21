@@ -14,10 +14,6 @@ I am currently diving deep into:
 
 - **Undergraduate Student** | School of Artificial Intelligence, Tianjin University
   - *Sep 2024 - Present*
-- **Research Intern** | Institute of Automation, Chinese Academy of Sciences (CASIA)
-  - *Focus: Research on Hybrid Models.*
-- **Research Intern** | Networked Systems Lab, Tianjin University
-  - *Focus: Security and Privacy in Split Learning.*
 
 ### 📫 How to reach me
 
